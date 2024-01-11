@@ -50,3 +50,5 @@ This project is meant for learning JavaScript and is not intended for production
 ## Acknowledgements
 
 Inspired by the Tally Count app available at [tallycount.app](https://tallycount.app/).
+
+https://simphiwe-tally-app.netlify.app/
